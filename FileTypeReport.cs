@@ -1,8 +1,20 @@
-// Program.cs
-//
-// CECS 342 Assignment 2
-// File Type Report
-// Solution Template
+/*
+CECS 342-05 Assignment 2
+Deanna Solis
+Hannah Ngyuen 
+David Delatorre
+Carlos Ponce 
+
+Tools, Compilers, and Editors Used:
+- editor: VScode
+- compiler/runtime: .NET
+
+Online references:
+- https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.groupby?view=net-9.0
+- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/let-clause
+- https://stackoverflow.com/questions/3008085/recursively-getting-files-in-a-directory-with-several-sub-directories
+- chatgpt and stackoverflow for debugging
+ */
 
 using System;
 using System.Collections.Generic;
